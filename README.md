@@ -4,8 +4,11 @@
 
 ## 简单说明
 本demo所用信息均来源于“豆瓣电影”，所用API由[GitHub地址](https://github.com/zce/douban-api-docs/blob/master/docs/movie.md)提供。
-
 简单的写了一个口碑榜和新片榜，还有点击图片查看电影详情的页面，想做一个搜索的，但是关于搜索的api出现了问题。。。
+
+## 在线Demo预览
+[在线预览](https://kuyaaaa.github.io/kuyamovie/dist/index.html)
+
 ## Dependencies
 ``` bash
 "dependencies": {
